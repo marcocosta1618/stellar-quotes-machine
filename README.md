@@ -10,3 +10,5 @@ This app is [hosted on GitHub Pages](https://marcocosta1618.github.io/stellar-qu
 ![SASS](https://img.shields.io/badge/SASS-cc6699.svg?&logo=sass&logoColor=white)&nbsp;
 
 ---
+
+![screenshot(60%)](https://user-images.githubusercontent.com/78434326/120341145-eda9be80-c2f6-11eb-8c12-c551b91e9461.jpg)
