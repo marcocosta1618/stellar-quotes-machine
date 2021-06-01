@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/marcocosta1618/stellar-quotes-machine/static/css/main.cbc4500e.chunk.css",
+    "main.js": "/marcocosta1618/stellar-quotes-machine/static/js/main.cb8be3cb.chunk.js",
+    "main.js.map": "/marcocosta1618/stellar-quotes-machine/static/js/main.cb8be3cb.chunk.js.map",
+    "runtime-main.js": "/marcocosta1618/stellar-quotes-machine/static/js/runtime-main.93f5e63a.js",
+    "runtime-main.js.map": "/marcocosta1618/stellar-quotes-machine/static/js/runtime-main.93f5e63a.js.map",
+    "static/js/2.24e6126b.chunk.js": "/marcocosta1618/stellar-quotes-machine/static/js/2.24e6126b.chunk.js",
+    "static/js/2.24e6126b.chunk.js.map": "/marcocosta1618/stellar-quotes-machine/static/js/2.24e6126b.chunk.js.map",
+    "index.html": "/marcocosta1618/stellar-quotes-machine/index.html",
+    "static/css/main.cbc4500e.chunk.css.map": "/marcocosta1618/stellar-quotes-machine/static/css/main.cbc4500e.chunk.css.map",
+    "static/js/2.24e6126b.chunk.js.LICENSE.txt": "/marcocosta1618/stellar-quotes-machine/static/js/2.24e6126b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93f5e63a.js",
+    "static/js/2.24e6126b.chunk.js",
+    "static/css/main.cbc4500e.chunk.css",
+    "static/js/main.cb8be3cb.chunk.js"
+  ]
+}

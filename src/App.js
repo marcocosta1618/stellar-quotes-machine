@@ -50,7 +50,15 @@ class QuoteMachine extends React.Component {
         <QuoteBox quote={quote} author={author} from={from}></QuoteBox>
         <div className="buttons-div">
           <button>
-            <a id="tweet-quote" href="http://twitter.com/intent/tweet" target="_blank" rel="noreferrer" data-show-count="false"><i class="fab fa-twitter"></i>Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            <a id="tweet-quote"
+              href="http://twitter.com/intent/tweet"
+              target="_blank"
+              rel="noreferrer"
+              data-show-count="false">
+              <i class="fab fa-twitter"></i>
+                  Tweet
+            </a>
+            <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
           </button>
           <button id="new-quote" onClick={this.getNewQuote}>New quote</button>
         </div>
@@ -95,7 +103,7 @@ function App() {
           <QuoteMachine />
         </main>
         <footer>
-          <p>Marco Costa 2021. The <a href="https://github.com/marcocosta1618?tab=repositories" target="_blank" rel="noreferrer" >code of this page</a> is hosted at GitHub.</p>
+          <p>Marco Costa 2021. The <a href="https://github.com/marcocosta1618/stellar-quotes-machine" target="_blank" rel="noreferrer" >code of this page</a> is hosted at GitHub.</p>
         </footer>
       </div>
     </div>
