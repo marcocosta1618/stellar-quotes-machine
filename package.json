@@ -2,7 +2,7 @@
   "name": "random-quote-machine",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/marcocosta1618/stellar-quotes-machine",
+  "homepage": "http://marcocosta1618.github.io/stellar-quotes-machine",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.6",
